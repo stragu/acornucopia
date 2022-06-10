@@ -1,0 +1,13 @@
+Package: acornucopia
+Type: Package
+Title: Download and Prepare ACORN data
+Version: 0.0.9990
+Author: Stéphane Guillou
+Maintainer: Stéphane Guillou <s.guillou@uq.edu.au>
+Imports: readr, dplyr, purrr
+Description: Download, extract, read and merge CSV files
+    from the ACORN dataset provided by BOM.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
